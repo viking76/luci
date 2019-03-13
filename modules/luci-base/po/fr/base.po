@@ -389,7 +389,7 @@ msgstr "Ajout d'une nouvelle interface..."
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/dhcp.lua:60
 msgid "Additional Hosts files"
-msgstr "Fichiers hosts supplémetaires"
+msgstr "Fichiers hosts supplémentaires"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/dhcp.lua:116
 msgid "Additional servers file"
@@ -411,7 +411,7 @@ msgstr "Administration"
 
 #: modules/luci-mod-system/luasrc/model/cbi/admin_system/system.lua:25
 msgid "Advanced"
-msgstr ""
+msgstr "Avancé"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/dhcp.lua:22
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/ifaces.lua:189
@@ -435,7 +435,7 @@ msgstr "Alerte"
 #: modules/luci-base/luasrc/model/network.lua:1406
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/network.js:78
 msgid "Alias Interface"
-msgstr ""
+msgstr "Alias de l'Interface"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/network.js:66
 msgid "Alias of \"%s\""
@@ -443,7 +443,7 @@ msgstr ""
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/dhcp.lua:126
 msgid "All Servers"
-msgstr ""
+msgstr "Tous Serveurs"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/dhcp.lua:69
 msgid ""
@@ -453,7 +453,7 @@ msgstr ""
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/dhcp.lua:68
 msgid "Allocate IP sequentially"
-msgstr ""
+msgstr "IP Allouer sequentiellent"
 
 #: modules/luci-mod-system/luasrc/model/cbi/admin_system/dropbear.lua:30
 msgid "Allow <abbr title=\"Secure Shell\">SSH</abbr> password authentication"
@@ -463,7 +463,7 @@ msgstr ""
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/wifi.lua:543
 msgid "Allow AP mode to disconnect STAs based on low ACK condition"
-msgstr ""
+msgstr "Autorise le mode AP a deconnecter BaseSTA a faible reception"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/wifi.lua:460
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/wifi.lua:587
@@ -472,7 +472,7 @@ msgstr "Autoriser tout sauf ce qui est listé"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/wifi.lua:235
 msgid "Allow legacy 802.11b rates"
-msgstr ""
+msgstr "Autoriser Debit 802.11b"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/wifi.lua:459
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/wifi.lua:586
@@ -507,19 +507,19 @@ msgstr ""
 
 #: protocols/luci-proto-wireguard/luasrc/model/cbi/admin_network/proto_wireguard.lua:135
 msgid "Allowed IPs"
-msgstr ""
+msgstr "IP Autorisées"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/ifaces.lua:549
 msgid "Always announce default router"
-msgstr ""
+msgstr "Toujours annonce le Routeur par default"
 
 #: modules/luci-mod-system/luasrc/model/cbi/admin_system/leds.lua:50
 msgid "Always off (%s)"
-msgstr ""
+msgstr "Toujours Eteint (%s)"
 
 #: modules/luci-mod-system/luasrc/model/cbi/admin_system/leds.lua:48
 msgid "Always on (%s)"
-msgstr ""
+msgstr "Toujours Allumée"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/wifi.lua:258
 msgid ""
@@ -590,27 +590,27 @@ msgstr ""
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/ifaces.lua:550
 msgid "Announce as default router even if no public prefix is available."
-msgstr ""
+msgstr "Annoncer comme Routeur par defaut si pas de Prefix public disponible"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/ifaces.lua:555
 msgid "Announced DNS domains"
-msgstr ""
+msgstr "DNS domains Annoncées"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/ifaces.lua:554
 msgid "Announced DNS servers"
-msgstr ""
+msgstr "DNS servers Annoncées"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/wifi.lua:1073
 msgid "Anonymous Identity"
-msgstr ""
+msgstr "Identité Anonyme"
 
 #: modules/luci-mod-system/luasrc/model/cbi/admin_system/fstab.lua:53
 msgid "Anonymous Mount"
-msgstr ""
+msgstr "Mount Anonyme"
 
 #: modules/luci-mod-system/luasrc/model/cbi/admin_system/fstab.lua:49
 msgid "Anonymous Swap"
-msgstr ""
+msgstr "SWAP Anonyme"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/wifi.lua:321
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/wifi.lua:328
@@ -632,7 +632,7 @@ msgstr "N'importe quelle zone"
 
 #: modules/luci-base/luasrc/view/cbi/apply_widget.htm:48
 msgid "Apply anyway"
-msgstr ""
+msgstr "Appliqué quand même"
 
 #: modules/luci-base/luasrc/view/cbi/apply_widget.htm:145
 msgid "Apply request failed with status <code>%h</code>"
@@ -1078,7 +1078,7 @@ msgstr "Commande"
 
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/iptables.js:64
 msgid "Comment"
-msgstr ""
+msgstr "Commentaire"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/ifaces.lua:185
 msgid "Common Configuration"
@@ -1102,7 +1102,7 @@ msgstr "Configuration"
 
 #: protocols/luci-proto-ncm/luasrc/model/network/proto_ncm.lua:63
 msgid "Configuration failed"
-msgstr ""
+msgstr "Echec de la Configuration"
 
 #: modules/luci-mod-system/luasrc/view/admin_system/upgrade.htm:42
 msgid "Configuration files will be kept"
@@ -2119,7 +2119,7 @@ msgstr ""
 
 #: modules/luci-mod-system/luasrc/model/cbi/admin_system/fstab.lua:37
 msgid "Global Settings"
-msgstr ""
+msgstr "Configuration Globale"
 
 #: modules/luci-mod-network/luasrc/model/cbi/admin_network/network.lua:194
 msgid "Global network options"
